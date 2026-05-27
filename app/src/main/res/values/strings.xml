@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment-3</string>
+    <string name="startTrackText">Start Tracking</string>
+    <string name="stopTrackText">Stop Tracking</string>
+    <string name="longitudeValueText">Longitude:</string>
+    <string name="latitudeValueText">Latitude:</string>
+</resources>
