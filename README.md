@@ -1,4 +1,9 @@
-Description of App:
+## Repository Note:
+This repository was formed from work done for within a course directory. To have this simulator project listed indpependently I had a new repository created, so the full commit history is not visible.
+
+# Android Simple Location Logger
+
+## Description of App:
 
 This app allows users to track their current location as well as see the coordinates of their recent locations. Upon opening the app, the user will be prompted to enable notifications, as later it will show when the service has started tracking.
 
@@ -8,7 +13,7 @@ Their current location will be shown in the two textViews at the top of the scre
 
 If the user closes the app, they can reopen it later to see previously saved location data, if it’s available.
 
-Design Choices:
+## Design Choices:
 
 The use of TextViews were prioritized as they could receive intents to show and update the location values, as well as represent text data that could be saved to internal storage. 
 
